@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,0.1μF,
+C2,0603,1,10μF,
+J1,PA_Connector_Post_4pin_Side,1,LoadCell_L,
+J2,PA_Connector_Post_3Pin_Side,1,Rudder_R,
+R1,0805,1,100Ω,
+U1,R_8_ADI,1,AD8226ARZ,
